@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋✨
 <h1 align="center">Hi there! \o/ 👋 👩🏽‍🦱 :woman_technologist: - Welcome to my Github Profile! </h1>
 <p>
     <a href="https://www.linkedin.com/in/rysia/" target="_blank">
@@ -45,6 +45,7 @@ I'm a Computer Technician at IFAL and I'm an undergraduate student in the Bachel
   <img title="PostgreSQL" alt="psql" src="images/Postgresql_elephant.svg" width="50" height="50" />
 </div>
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayararysia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![](https://github-readme-stats.vercel.app/api?username=mayararysia&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mayararysia/mayararysia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
