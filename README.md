@@ -1,5 +1,5 @@
-### Hi there 👋✨
-<h1 align="center">Hi there! \o/ 👋 👩🏽‍🦱 :woman_technologist: - Welcome to my Github Profile! </h1>
+### Hi there 👋✨ :woman_technologist:
+<h1 align="center"> Welcome to my Github Profile! </h1>
 <p>
     <a href="https://www.linkedin.com/in/rysia/" target="_blank">
         <img alt="Linkedin: rysia" src="https://img.shields.io/badge/-MayaraRysia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rysia/" />
