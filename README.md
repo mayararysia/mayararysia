@@ -10,7 +10,9 @@
   <a href="https://mayararysia.medium.com/" target="_blank">
     <img alt="Medium: mayararysia" src="https://img.shields.io/badge/Medium-Profile-brightgreen" />
   </a>
-  ![Twitter Follow](https://img.shields.io/twitter/follow/mayararysia_?label=Mayara%20Rysia)
+ <a href="https://twitter.com/mayararysia_" target="_blank">
+    <img alt="Twitter: mayararysia" src="https://img.shields.io/twitter/follow/mayararysia_?label=Mayara%20Rysia" />
+  </a>
 </p>
 
 ## About me
@@ -19,15 +21,15 @@
 I'm a Computer Technician at IFAL and I'm an undergraduate student in the Bachelor of Information Systems course at IFAL. 
 
 
-I am passionate about technology, innovation, and self-improvement.  
+> I am passionate about technology, innovation, and self-improvement.  
 
-I am an enthusiast of STEM Education, Software Engineering, and Artificial Intelligence. I love to exchange knowledge and experiences.
+> I am an enthusiast of STEM Education, Software Engineering, and Artificial Intelligence. I love to exchange knowledge and experiences.
 
 
-I also like coffee, tea, plants, music, series, movies, the stock market and etc. 
+> I also like coffee, tea, plants, music, series, movies, the stock market and etc. 
 
  -  **Learning :** Angular :fire:
- -  **Skills :** Java, C, Python, JavaScript, SQL Databases, POO, :gem:
+ -  **Skills :** Java, C, Python, JavaScript, SQL Databases, POO :gem:
 
 ## Main Technologies
 
