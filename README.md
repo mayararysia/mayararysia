@@ -26,7 +26,7 @@ I'm a Computer Technician at IFAL and I'm an undergraduate student in the Bachel
 > I am an enthusiast of STEM Education, Software Engineering, and Artificial Intelligence. I love to exchange knowledge and experiences.
 
 
-> I also like flowers, music, series, movies, coffee, tea, the stock marketc and etc. 
+> I also like flowers, music, series, movies, coffee, tea, the stock market, bitcoins and etc. 
 
  -  **Learning :** Angular :fire:
  -  **Skills :** Java, C, Python, JavaScript, SQL Databases, POO :gem:
