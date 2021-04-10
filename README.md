@@ -17,7 +17,7 @@
 
 ## About me
 
-> My name is Mayara Rysia, I'm 26 years old, and I'm from Brazil 🇧🇷
+> My name is Mayara Rysia and I'm from Brazil 🇧🇷
 I'm a Computer Technician at IFAL and I'm an undergraduate student in the Bachelor of Information Systems course at IFAL. 
 
 
