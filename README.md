@@ -10,9 +10,9 @@
   <a href="https://mayararysia.medium.com/" target="_blank">
     <img alt="Medium: mayararysia" src="https://img.shields.io/badge/Medium-Profile-brightgreen" />
   </a>
- <a href="https://twitter.com/mayararysia_" target="_blank">
+ <!--<a href="https://twitter.com/mayararysia_" target="_blank">
     <img alt="Twitter: mayararysia" src="https://img.shields.io/twitter/follow/mayararysia_?label=Mayara%20Rysia" />
-  </a>
+  </a>-->
 </p>
 
 ## About me
@@ -31,7 +31,7 @@ I'm a Computer Technician at IFAL and I'm an undergraduate student in the Bachel
  -  **Learning :** Angular :fire:
  -  **Skills :** Java, C, Python, JavaScript, SQL Databases, POO :gem:
 
-## Main Technologies
+## Main Technologiea
 
 <div style="margin:auto;width:70%;display:flex;justify-content:space-between;align-items:center">
   <img title="Java" alt="java" src="images/java-brands.svg" width="50" height="50" />
